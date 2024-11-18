@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">📸 Carioca, nascido na Zona Norte e pai da Maria Cecilia.<br>🛠️ Desenvolvo softwares e faço trabalhos audiovisuais fotográficos.<br>📋 Obtendo mentoria e auxiliando o desenvolvimento de novos programadores na Plataforma Impact.<br>📚 No momento estudando Cloud Computing e estrutura de dados.<br>⛹🏿‍♂️ Gosto de passar o tempo jogando basquete e consumindo alguma explessão de arte.</p>
+<p align="center">📸 Carioca, nascido na Zona Norte e pai da Maria Cecilia.<br>🛠️ Desenvolvo softwares e faço trabalhos audiovisuais fotográficos.<br>📋 Obtendo mentoria e auxliando o desenvolvimento de novos programadores na Plataforma Impact.<br>📚 No momento estudando Cloud Computing e estrutura de dados.<br>⛹🏿‍♂️ Gosto de passar o tempo jogamdo basquete e fazendo algum tipode arte.</p>
 
 ###
 
@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###

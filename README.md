@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">📸 Carioca, nascido na Zona Norte e pai da Maria Cecilia.<br>🛠️ Desenvolvo softwares e faço trabalhos audiovisuais fotográficos.<br>📋 Obtendo mentoria e auxiliando o desenvolvimento de novos programadores na Plataforma Impact.<br>📚 No momento estudando Cloud Computing e estrutura de dados.<br>⛹🏿‍♂️ Gosto de passar o tempo jogando basquete e consumindo algum tipo de arte.</p>
+<p align="center">📸 Carioca, nascido na Zona Norte e pai da Maria Cecilia.<br>🛠️ Desenvolvo softwares e faço trabalhos audiovisuais fotográficos.<br>📋 Obtendo mentoria e auxiliando o desenvolvimento de novos programadores.<br>📚 No momento estudando Cloud Computing e estrutura de dados.<br>⛹🏿‍♂️ Gosto de passar o tempo jogando basquete e consumindo algum tipo de arte.</p>
 
 ###
 

@@ -1,8 +1,8 @@
-<h4 align="center">Eu sou o Mista, e o que temos aqui?</h4>
+<h4 align="center">E ai beleza, eu sou o Mista, e o que temos aqui?</h4>
 
 ###
 
-<p align="center">📸 Carioca, nascido na Zona Norte e pai da Maria Cecilia.<br>🛠️ Desenvolvo softwares e faço trabalhos audiovisuais fotográficos.<br>📋 Obtendo mentoria e auxiliando o desenvolvimento de novos programadores.<br>📚 No momento estudando Cloud Computing e estrutura de dados.<br>⛹🏿‍♂️ Gosto de passar o tempo jogando basquete e consumindo algum tipo de arte.</p>
+<p align="center">📸 Carioca, cria da Zona Norte e pai da Cici.<br>🛠️ desenvolvimento softwares por amor e amante dos trabalhos audiovisuais.<br>📋 Atuando na assistência na instrutoria para jovens programadores.<br>📚 No momento estudando Cloud Computing e estrutura de dados.<br>⛹🏿‍♂️ Gosto de passar o tempo jogando basquete e consumindo algum tipo de arte.</p>
 
 ###
 

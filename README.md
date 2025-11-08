@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">📸 Carioca, cria da Zona Norte e pai da Cici.<br>🛠️ desenvolvimento softwares por amor e amante dos trabalhos audiovisuais.<br>📋 Atuando na assistência na instrutoria para jovens programadores.<br>📚 No momento estudando Cloud Computing e estrutura de dados.<br>⛹🏿‍♂️ Gosto de passar o tempo jogando basquete e consumindo algum tipo de arte.</p>
+<p align="center">📸 Carioca, cria da Zona Norte e pai da Cici.<br>🛠️ Desenvolvimento softwares por amor e amante dos trabalhos audiovisuais.<br>📋 Atuando na assistência na instrutoria para jovens programadores.<br>📚 No momento estudando Cloud Computing e estrutura de dados.<br>⛹🏿‍♂️ Gosto de passar o tempo jogando basquete e consumindo algum tipo de arte.</p>
 
 ###
 

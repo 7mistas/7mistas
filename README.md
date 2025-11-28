@@ -2,7 +2,20 @@
 
 ###
 
-<p align="center">📸 Carioca, cria da Zona Norte e pai da Cici.<br>🛠️ Construindo o futuro com software e apaixonado por trabalhos audiovisuais.<br>📋 Atuo dando suporte na instrutoria para jovens programadores.<br>📚 Estudando Cloud, Data Structure e a arte de criar.<br>⛹🏿‍♂️ Passando o tempo entre quadras e galerias de arte.</p>
+<p align="center">Who I Am
+Born and raised in Rio de Janeiro's North Zone, 
+I am the father of little Maria Cecília. 
+I am focused on creating a positive impact through technology and art, combining software development with audiovisual photography work to merge logic with creativity.
+
+​What I Do
+I am a software developer and photographer with experience in creative and collaborative work. I take great pride in working alongside NGOs, developing projects that positively serve society, especially in underserved communities.
+A great example is my work with Plataforma Impact, where I share my knowledge to collaborate and evolve alongside the new programmers trained there.
+
+​Constantly Evolving
+Currently, I am deepening my studies in Cloud Computing and Data Structures, seeking to expand my skills to create innovative and efficient solutions.
+
+​Beyond the Code
+When I’m not coding or shooting photos, you can find me playing basketball or immersing myself in the art world. These passions are the fuel for my creativity and personal balance.</p>
 
 ###
 
